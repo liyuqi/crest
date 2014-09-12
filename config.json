@@ -2,8 +2,6 @@
   "db": {
     "port": 27017,
     "host": "localhost",
-    "username": "foo",
-    "password": "bar"
   },
   "server": {
     "port": 3500,
